@@ -89,7 +89,7 @@ line-height: 50px;
 }
 
 html {
-background: black url(https://w3bits.com/wp-content/uploads/2018-12-25.jpg); 
+background: url(2021.png); 
 background-repeat: no-repeat;
   background-size: 100%;
  overflow-y: hidden; /* Hide vertical scrollbar */
