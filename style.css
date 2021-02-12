@@ -89,7 +89,7 @@ line-height: 50px;
 }
 
 html {
-background: url(2021.png); 
+background: url(resources/2021.png); 
 background-repeat: no-repeat;
   background-size: 100%;
  overflow-y: hidden; /* Hide vertical scrollbar */
