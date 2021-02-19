@@ -89,7 +89,7 @@ line-height: 50px;
 }
 
 html {
-background: url(resources/2021.png); 
+background: url(https://raw.githubusercontent.com/Jeve-Stobs/Christmas/master/resources/2021.PNG); 
 background-repeat: no-repeat;
   background-size: 100%;
  overflow-y: hidden; /* Hide vertical scrollbar */
